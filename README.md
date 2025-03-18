@@ -7,7 +7,6 @@
 ## 我也有我自己的网站!!!!!!!!!!!!!
 在这里!
 > [***点我***](https://utac.us.kg)
->![图片](/res/ss/1.png)
 
 此网站已在GITHUB上开源
 > [***点我***](https://github.com/UTAC99645/UT.AC)
