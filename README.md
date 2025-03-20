@@ -26,10 +26,10 @@
   > 在以下仓库中进行中文翻译
 
   1. [EasyNote](https://github.com/Kin69/EasyNotes/)
-  ![图标](/res/png/Easy.webp)
+  ![](/res/png/Easy.webp)
 
   2. [Compass](https://github.com/Kr0oked/Compass)
-  ![图标](/res/png/icon.png)
+  ![](/res/png/icon.png)
 
 他们都是很好的作者..
 
@@ -42,7 +42,7 @@
   所以才更的慢......
   
 3. TODO
- - [X] 买一个域名 `utac99645.top ***2025.7 - 2028.7` 
+ - [X] 买一个域名 `utac99645.top \n ***2025.7 - 2028.7` 
  - [X] 开一个网站
  - [X] 美化网站
  - [X] 更易懂的网址
