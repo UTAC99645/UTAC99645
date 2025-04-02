@@ -26,12 +26,13 @@
   > 在以下仓库中进行中文翻译
 
   1. [EasyNote](https://github.com/Kin69/EasyNotes/)
-  ![](/res/png/Easy.webp)
+  !(https://github.com/Kin69/EasyNotes/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp)
 
   2. [Compass](https://github.com/Kr0oked/Compass)
-  ![](/res/png/icon.png)
+  !(https://github.com/Kr0oked/Compass/raw/master/fastlane/metadata/android/en-US/images/icon.png)
 
-他们都是很好的作者..
+  3. [Ovti](https://github.com/d4rken-org/octi)
+  !(https://github.com/d4rken-org/octi/raw/main/fastlane/metadata/android/en-US/images/featureGraphic.jpg)
 
 2. 我
 
